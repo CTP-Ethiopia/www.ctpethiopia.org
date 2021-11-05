@@ -1,7 +1,6 @@
 +++
 blocsk = []
 date = ""
-draft = true
 layout = ""
 title = "CTP’s Piazza Page, Personalized Answers to Your Questions!"
 
