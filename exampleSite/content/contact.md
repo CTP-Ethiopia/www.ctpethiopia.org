@@ -1,16 +1,9 @@
 ---
-title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+title: Contact
+date: 2018-02-22T17:01:34.000+07:00
 layout: contact
+
 ---
+To reach out to CTP, please fill out the form below. If not convenient, you can email us at info@ctpethiopia.org.
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSfiGAq7yyN_nXORDeJu05pGNcryOkfIpMNSlVH8YNyaUAJjuQ/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSfiGAq7yyN_nXORDeJu05pGNcryOkfIpMNSlVH8YNyaUAJjuQ/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSfiGAq7yyN_nXORDeJu05pGNcryOkfIpMNSlVH8YNyaUAJjuQ/viewform?embedded=true")" width="640" height="840" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
