@@ -2,11 +2,12 @@
 title: "Richelle Gomez"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/richelle-gomez.jpg"
+image: "images/team/richelle-gomez.png"
 jobtitle: "Co-President"
 linkedinurl: "https://www.linkedin.com/in/richel-gomez/"
 promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Richelle is the Co-President of CTP for this academic year. She has been involved in CTP the past few years in the communications and education teams while serving on the board.
+
