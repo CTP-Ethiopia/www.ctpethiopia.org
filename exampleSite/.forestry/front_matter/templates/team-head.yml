@@ -28,3 +28,5 @@ fields:
   config:
     required: false
   label: name
+pages:
+- exampleSite/content/team/aaron-kebede-1.md
