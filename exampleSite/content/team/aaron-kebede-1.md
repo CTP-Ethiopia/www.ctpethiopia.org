@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 image = "/uploads/shot_akebede.png"
 jobtitle = "CTO"
 linkedinurl = "https://www.linkedin.com/in/AaronKebede"
