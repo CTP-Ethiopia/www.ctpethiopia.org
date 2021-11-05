@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "SAT Tutoring",
+    "description": "We host preparation courses on the SAT Exam for students in Ethiopia during the Spring and Summer.",
+    "image": "images/features/sat-tutoring.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Demystifying the College Application",
+    "description": "The College Application process is a daunting journey. Our instructors help guide you through the ins and outs of navigating this road.",
+    "image": "images/features/demystification.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Mentorship",
+    "description": "We pair you up with college students currently attending some of the most prestigious universities in the US. As they share their experiences with you listen to their success stories and learn from their mistakes.",
+    "image": "images/features/mentorship.svg"
   }
 ]
