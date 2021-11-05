@@ -1,50 +1,18 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: About
+date: 2018-02-22T17:01:34.000+07:00
+
 ---
+# **Our Mission**
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+  
+CTP aims to demystify the college application process to US universities by giving Ethiopian high school students the necessary training they will need to excel on the SAT exam and by offering comprehensive help with filling out the different aspects of the college application. Furthermore, CTP has a new internship platform called CTP Careers, aimed at providing a database of varied sought out companies, organizations, and start-ups that high-school students to recent college graduates can apply to and gain professional experience.
 
-## Ne verba patulosque numen vix libet
+#   
+**Why Counseling is Crucial**
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+The American college application process is very complex. Counselors provide students with vital information and resources needed to make the college application process easier. Unfortunately, out of the hundreds of high schools, there are only three college counselors in Addis Ababa providing a huge vacuum and need for college application assistance. Through CTP we hope to alleviate this shortage and help as many high school students with applying and matriculating into American universities.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+> * We offer three hour long classes three to four times a week for a period of 2 months in the summer (from June to August). During these sessions, students receive rigorous training on SAT test-taking skills and the college application process by top-of-the-line instructors from high ranking schools in the U.S. and high school seniors who recently got accepted to schools abroad.
+> * ​We pair selected high school students with a college student who serves as a mentor and guides them through the college application process via weekly emails, feedback on personal statements, supplemental essays and assist them with deliberation and decision making after having been accepted to college.
+> * Our students will have access to over 50 SAT study guides and books about the college application process and will  receive a 100 page CTP workbook that outlines all components  required in a college application in great detail.
