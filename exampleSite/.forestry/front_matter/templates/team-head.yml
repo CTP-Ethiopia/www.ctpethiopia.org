@@ -23,3 +23,8 @@ fields:
 - type: number
   name: weight
   label: weight
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
