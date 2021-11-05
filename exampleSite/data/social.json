@@ -1,12 +1,27 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "link": "https://github.com/ctp-ethiopia",
         "image": "images/social/github.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/ctpethiopia",
         "image": "images/social/twitter.svg"
+    }
+    {
+        "name": "Facebook",
+        "link": "https://twitter.com/ctpethiopia",
+        "image": "images/social/facebook.svg"
+    }
+    {
+        "name": "Instagram",
+        "link": "https://twitter.com/zerostaticio",
+        "image": "images/social/instagram.svg"
+    }
+    {
+        "name": "Telegram",
+        "link": "https://telegram.me/ctpethiopia",
+        "image": "images/social/telegram.svg"
     }
 ]
