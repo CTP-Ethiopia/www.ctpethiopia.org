@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/aaron"
+admin_path: "/exampleSite/content/aaron"
 webhook_url: 
 sections:
 - type: directory
