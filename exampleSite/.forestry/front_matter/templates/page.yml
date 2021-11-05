@@ -18,3 +18,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- exampleSite/content/ctp-s-piazza-page-personalized-answers-to-your-questions.md
