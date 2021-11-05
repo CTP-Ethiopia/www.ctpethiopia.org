@@ -1,12 +1,14 @@
 ---
-title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
-intro_image: "images/illustrations/pointing.svg"
+title: Homepage
+meta_title: CTP Ethiopia Inc.
+description: Counseling and Test Preparation (CTP) is an educational program founded
+  by Columbia University students that provides comprehensive SAT preparation, college
+  counseling, and internship guidance for students in Ethiopia.
+intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
+
 ---
+# CTP Ethiopia Inc. - Counseling and Test Preparation.
 
-# Serif - A Hugo Business Theme.
-
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Counseling and Test Preparation (CTP) is an educational program founded by Columbia University students that provides comprehensive SAT preparation, college counseling, and internship guidance for students in Ethiopia.
