@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# On-site tutoring. Online Mentoring.
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+CTP's adaptation to growing challenging including the COVID-19 make us different. We've adapted to using effective learning strategies and online teaching to help achieve our mission.
