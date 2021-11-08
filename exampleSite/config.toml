@@ -38,8 +38,8 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Our Approach"
+    url = "/Our Approach/"
       weight = 1
 
   [[menu.main]]
