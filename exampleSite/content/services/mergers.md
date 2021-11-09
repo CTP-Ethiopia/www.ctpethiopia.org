@@ -1,53 +1,20 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
+title: Support
+date: 2018-11-28T15:15:34.000+10:00
 featured: true
-draft: false
-weight: 4
+weight: "4"
+
 ---
+# CTP Ethiopia Support
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+#### Mentorship
 
-## Ne verba patulosque numen vix libet
+CTP Ethiopia offers multiple types of support. We offer mentorship support to people enrolled in our summer session programs. We match students with mentors who will guide the students throughout the whole application process and beyond. To be part of our mentorship program, you should be enrolled in our summer session programs. We will be posting updates on our [News](https://news.ctpethiopia.org "News") website and our social media platforms when the applications for the summer session programs open. 
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+#### Online Learning
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Part of CTP Ethiopia's community support includes our outreach at [CTP Guides](https://guides.ctpethiopia.org/ "Guides") & [Podcast](https://pod.ctpethiopia.org/ "Podcast"). Even more useful is our online learning platform called [myCTP](https://ctpacademy.org/ "myCTP"). There are courses that guide on how to study for the SAT, resources for SAT, and college application demystification. Registration is free and available except when the summer session is happening. 
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+#### Technical Support
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+We have a dedicated technical support team over at [help.ctpethiopia.org](https://help.ctpethiopia.org "Help"). To access help on creating and submitting support tickets, please follow [this guide](https://beta.ctpethiopia.org/contact/#Submitting%20Tickets "Guide on Creating Tickets"). We usually respond to help requests in less than 48 hours. Technical support includes help on registering for myCTP and any type of technical support on our systems. 
