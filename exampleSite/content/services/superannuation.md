@@ -1,53 +1,34 @@
 ---
-title: "Superannuation"
-date: 2018-11-28T15:14:54+10:00
+title: Piazza Forum
+date: 2018-11-28T15:14:54.000+10:00
 featured: true
-draft: false
-weight: 5
+weight: "5"
+
 ---
+![](/uploads/piazza-icon.png)
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# CTP’s Piazza Page, Personalized Answers to Your Questions!
 
-## Ne verba patulosque numen vix libet
+  
+Are you looking for that place where you can ask all the questions you can think of about the college application process? Are you looking for an easier way to access lots of information about the college application process instead of tediously searching for your questions on Google? CTP is here for you! Let us introduce you to Piazza, one of the precious resources of most college students. Piazza is a question and answer platform that allows you, our mentees, to directly connect with multiple mentors who can answer any of your questions (you can even ask anonymously!) Interested yet? ​Join the ever-growing discussion and never miss out! It’s easy. Just follow the following simple steps, and ready those unanswered questions!
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Step 1
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+* Go to [**this Piazza page **](https://piazza.com/counseling_and_test_preparation_ctp)that gives you a list of courses to join. (Don’t worry, you’ll have to enter just one!)
+* First, make sure the _Selected Term_ is “**Other**” and enter “**CTP 401: CTP Discussion Forum**” on the field _Class 1_.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Step 2
 
-## Postquam tamen
+* Select the only course that appears below the search field.
+* You should then have an option to select what you are _joining as_. Select **student.**
+* It also inquires for an _access code_. Enter “**ctp401**” on that field and hit join course.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Step 3
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+* On the next page, **enter your email** on both fields and submit. You will be asked for a **verification code** which you will have received through the email you entered.
+* Enter the code and submit. Finally (We know!) you will be prompted to create your piazza account.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+  ## Step 4
+  * Just enter your full name and your new password.
+  * If you wish, you can pick your graduate program and major, or just select the “not pursuing degree” option.
+  * Accept agreements, submit and head to the next page to choose to be involved with Piazza Careers. Hit continue and that’s it! Congratulations, you are on our forum! Enjoy!
