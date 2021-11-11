@@ -23,4 +23,3 @@ This is a platform for all students in Ethiopia completing their degrees, Ethiop
 
 Our goal is to provide a bridge to connect students to company representatives and thereby allow students to engage in thoughtful dialogue about their professional aspirations and employers to find talented future hires.
 
-> So start now! Browse through the following list of companies. If you would like to make a career connection, click on the “Connect” button right next to the company! Fill out your information and submit a letter of interest!
