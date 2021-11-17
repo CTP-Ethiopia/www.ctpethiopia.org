@@ -1,15 +1,18 @@
 ---
-title: Piazza Forum
+title: " Forum"
 date: 2018-11-28T15:14:54.000+10:00
 featured: true
 weight: "5"
 
 ---
+**UPDATE**
+
+CTP's Technology Team has created a website customized for forums which can be found at [forum.ctpethiopia.org](https://forum.ctpethiopia.org "Forum"). You can continue using Piazza for now, but we strongly recommend using CTP Forum since it is very easy to work with.
+
 ![](/uploads/piazza-icon.png)
 
 # CTP’s Piazza Page, Personalized Answers to Your Questions!
 
-  
 Are you looking for that place where you can ask all the questions you can think of about the college application process? Are you looking for an easier way to access lots of information about the college application process instead of tediously searching for your questions on Google? CTP is here for you! Let us introduce you to Piazza, one of the precious resources of most college students. Piazza is a question and answer platform that allows you, our mentees, to directly connect with multiple mentors who can answer any of your questions (you can even ask anonymously!) Interested yet? ​Join the ever-growing discussion and never miss out! It’s easy. Just follow the following simple steps, and ready those unanswered questions!
 
 ## Step 1
