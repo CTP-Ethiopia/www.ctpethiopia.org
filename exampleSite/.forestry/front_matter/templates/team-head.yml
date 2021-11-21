@@ -30,4 +30,5 @@ fields:
   label: name
 pages:
 - exampleSite/content/team/aaron-kebede-1.md
+- exampleSite/content/team/benyam-eshete.md
 - exampleSite/content/team/rediet-bekele.md
