@@ -30,6 +30,7 @@ fields:
   label: name
 pages:
 - exampleSite/content/team/aaron-kebede-1.md
+- exampleSite/content/team/amanuel-lemenih.md
 - exampleSite/content/team/benyam-eshete.md
 - exampleSite/content/team/dagmawi-sraj.md
 - exampleSite/content/team/herma-demissie.md
