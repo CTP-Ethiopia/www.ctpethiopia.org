@@ -6,6 +6,6 @@ linkedinurl = "https://www.linkedin.com/in/dagmawi-sraj/"
 name = "Dagmawi Sraj"
 promoted = false
 title = "Dagmawi Sraj"
-weight = nil
+weight = 1
 
 +++
