@@ -1,6 +1,6 @@
 +++
 date = ""
-image = ""
+image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "#none"
 name = "Dagim Haddis"
