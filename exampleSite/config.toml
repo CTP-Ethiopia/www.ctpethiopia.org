@@ -33,7 +33,7 @@ theme = "hugo-serif-theme"
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'By CTP Ethiopia Inc. <a class="zerostatic" href="https://www.ctpethiopia.org">www.ctpethiopia.org</a>'
+    copyright_text = '&copy <a class="zerostatic" href="/">CTP Ethiopia Inc.</a>'
 
 [menu]
   # Main Menu
