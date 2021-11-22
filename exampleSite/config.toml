@@ -74,7 +74,7 @@ theme = "hugo-serif-theme"
   
   [[menu.main]]
     name = "Donate"
-    url = "/donate/"
+    url = "/services/donate/"
       weight = 6
   
   # Footer Menu
@@ -95,7 +95,7 @@ theme = "hugo-serif-theme"
   
   [[menu.footer]]
     name = "Donate"
-    url = "/donate/"
+    url = "/services/donate/"
       weight = 2
   
   [[menu.footer]]
