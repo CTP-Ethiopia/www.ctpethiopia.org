@@ -9,4 +9,4 @@ title = "Abenezer Amanuel"
 weight = 1
 
 +++
-Abenezer is on CTP's [Technology Team](/services/technology "tech").
+Abenezer is in CTP's [Technology Team](/services/technology "tech").
