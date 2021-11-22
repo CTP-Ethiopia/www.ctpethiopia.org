@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "https://www.linkedin.com/in/wakuma-yebasse-9173a0219/"
 name = "Wakuma Yebasse"
-promoted = false
+promoted = true
 title = "Wakuma Yebasse"
 weight = 2
 
