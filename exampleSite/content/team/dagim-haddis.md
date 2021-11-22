@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "#none"
 name = "Dagim Haddis"
-promoted = false
+promoted = true
 title = "Dagim Haddis"
 weight = 1
 
