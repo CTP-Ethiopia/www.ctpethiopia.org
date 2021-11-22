@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "#none"
 name = "Nardos Chegen"
-promoted = false
+promoted = true
 title = "Nardos Chegen"
 weight = 1
 
