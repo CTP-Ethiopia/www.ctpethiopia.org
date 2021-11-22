@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Harvard"
 linkedinurl = "#"
 name = "Yeabsira Mohammed"
-promoted = false
+promoted = true
 title = "Yeabsira Mohammed"
 weight = 1
 
