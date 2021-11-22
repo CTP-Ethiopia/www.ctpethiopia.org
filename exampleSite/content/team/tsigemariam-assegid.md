@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "#none"
 name = "Tsigemariam Assegid"
-promoted = false
+promoted = true
 title = "Tsigemariam Assegid"
 weight = 2
 
