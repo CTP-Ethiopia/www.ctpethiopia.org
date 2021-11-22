@@ -9,4 +9,4 @@ title = "Nardos Chegen"
 weight = 1
 
 +++
-Nardos serves on the [Careers](/services/carees "careers") team.
+Nardos serves on the [Careers](/services/careers "careers") team.
