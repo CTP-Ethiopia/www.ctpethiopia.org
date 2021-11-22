@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "#none"
 name = "Bezawit Tesfaye"
-promoted = false
+promoted = true
 title = "Bezawit Tesfaye"
 weight = 1
 
