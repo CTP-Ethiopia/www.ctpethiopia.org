@@ -1,6 +1,6 @@
 +++
 date = ""
-featured = false
+featured = true
 title = "Forum"
 weight = "1"
 
