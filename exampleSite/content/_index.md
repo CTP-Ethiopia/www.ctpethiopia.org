@@ -13,6 +13,6 @@ intro_image_hide_on_mobile: true
 
 Counseling and Test Preparation (CTP) is an educational program founded by Columbia University students that provides comprehensive SAT preparation, college counseling, and internship guidance for students in Ethiopia.
 
-#### [**Access myCTP**](https://www.ctpacademy.org "myCTP") **|** [**CTP Guides**](https://guides.ctpethiopia.org "Guides") **|** [**CTP Support**](https://help.ctpethiopia.org "Support")
+#### [**Access myCTP**](https://www.ctpacademy.org "myCTP") **|** [**CTP Guides**](https://guides.ctpethiopia.org "Guides") **|** [**CTP Support**](https://tech.ctpethiopia.org/support "Support")
 
 #### 
