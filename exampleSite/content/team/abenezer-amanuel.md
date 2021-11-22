@@ -4,7 +4,7 @@ image = "/uploads/default-logo.png"
 jobtitle = "Columbia"
 linkedinurl = "#none"
 name = "Abenezer Amanuel"
-promoted = false
+promoted = true
 title = "Abenezer Amanuel"
 weight = 1
 
