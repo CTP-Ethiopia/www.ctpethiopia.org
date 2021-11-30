@@ -39,7 +39,7 @@ If you leave a comment, the comment and its metadata are retained indefinitely. 
 
 For users that register on our website (if any), we also store the personal information they provide in their user profiles. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-You can always request to have your information deleted from our network by [contacting us](contact).
+You can always request to have your information deleted from our network by [contacting us](/contact).
 
 ## What rights you have over your data
 

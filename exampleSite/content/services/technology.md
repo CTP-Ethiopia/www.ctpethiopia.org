@@ -11,5 +11,5 @@ Our current active projects include working on our web presence and making onlin
 
 * [Guides](https://guides.ctpethiopia.org "Guides") - CTP Ethiopia Inc.'s blog and interviews platform that contains the experiences of current college students.
 * [Podcast](https://guides.ctpethiopia.org "Podcast") - CTP Ethiopia Inc.'s podcast website that hosts a podcast about college experiences with a humanly touch.
-*  [News](https://news.ctpethiopia.org "News") - Official updates from CTP Ethiopia Inc by CTP Ethiopia's communication team.
+* [News](https://news.ctpethiopia.org "News") - Official updates from CTP Ethiopia Inc by CTP Ethiopia's communication team.
 * [myCTP](https://ctpacademy.org "myCTP") - CTP Ethiopia's Online Learning platform. Outside of the summer session's timeframe, it is usually open to the public. If you'd like to learn more about how you can register, please fill out the [following page](/contact "Contact").
